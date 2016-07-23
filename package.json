@@ -1,0 +1,25 @@
+{
+  "name": "thoth",
+  "version": "1.0.0",
+  "description": "Thoth is Q&A system",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasum/thoth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasum/thoth/issues"
+  },
+  "homepage": "https://github.com/nasum/thoth#readme",
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}
